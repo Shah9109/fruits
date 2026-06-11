@@ -1,7 +1,7 @@
 # Compiled academic documents
 *.docx
 *.pdf
-*.html
+Report.html
 Report_Phase*.md
 compile_report.py
 template iee.pdf
