@@ -1,0 +1,9 @@
+# Compiled academic documents
+*.docx
+*.pdf
+*.html
+Report_Phase*.md
+compile_report.py
+template iee.pdf
+Industrial Report*.docx
+.DS_Store
